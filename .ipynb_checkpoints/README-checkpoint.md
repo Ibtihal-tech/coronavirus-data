@@ -6,7 +6,7 @@ This repo is originally forked from [here](https://github.com/NYCHealth/Coronavi
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <p align="center">
-  <img width="800" src="https://github.com/yiqiao-yin/Coronavirus-data/blob/master/figs/main-background.gif">
+  <img width="800" src="https://github.com/yiqiao-yin/coronavirus-data/blob/master/figures/main-background.gif">
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/stars-30+-blue.svg"/>
